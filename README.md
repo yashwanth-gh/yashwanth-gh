@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact:One day i almost worked in my laptop continuously for 15 hrs
 
+![Yashwanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashwanth-gh&theme=dark&show_icons=true)
