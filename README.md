@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with javascript
 - 📫 How to reach me: mailme - yashwanthbm362002@gmail.com  
 
-![Yashwanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashwanth-gh&theme=dark&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yashwanth-gh&theme=dark&show_icons=true)
