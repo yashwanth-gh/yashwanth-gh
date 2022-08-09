@@ -5,13 +5,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on web development
-- 🌱 I’m currently learning javascript and DSA
-- 👯 I’m looking to collaborate on projects related to html and css
+- 🔭 I’m currently working on web development  
+- 🌱 I’m currently learning javascript and DSA  
+- 👯 I’m looking to collaborate on projects related to html and css  
 - 🤔 I’m looking for help with javascript
 <!-- - 💬 Ask me about ...-->
 - 📫 How to reach me: mailme - yashwanthbm362002@gmail.com
-- 😄 Pronouns: ...
+<!-- - 😄 Pronouns: ...-->
 - ⚡ Fun fact:One day i almost worked in my laptop continuously for 15 hrs
 
 ![Yashwanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashwanth-gh&theme=dark&show_icons=true)
