@@ -5,12 +5,12 @@
 
 
 - 🔭 I’m currently working on web development  
-- 🌱 I’m currently learning javascript and DSA  
+- 🌱 I’m currently learning python and DSA  
 - 👯 I’m looking to collaborate on projects related to html and css  
-- 🤔 I’m looking for help with javascript
+- 🤔 I’m looking for help with python
 - 📫 How to reach me: mailme - yashwanthbm362002@gmail.com  
   
-  ![Logo](https://github.com/yashwanth-gh/codeshack-summer-of-code/blob/main/portfolio/images/nerd.gif)
+  ![Logo](https://github.com/yashwanth-gh/codeshack-summer-of-code/blob/main/portfolio/images/working.gif)
     
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yashwanth-gh&theme=dark&show_icons=true)
   
