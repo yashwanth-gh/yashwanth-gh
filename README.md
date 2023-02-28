@@ -11,6 +11,8 @@
 - 📫 How to reach me: mailme - yashwanthbm362002@gmail.com  
   
   ![Logo](https://github.com/yashwanth-gh/codeshack-summer-of-code/blob/main/portfolio/images/working.gif)
+  
+![LeetCode Stats](https://leetcard.jacoblin.cool/yashwanth-gh?theme=dark&font=Kumbh%20Sans)
     
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yashwanth-gh&theme=dark&show_icons=true)
   
