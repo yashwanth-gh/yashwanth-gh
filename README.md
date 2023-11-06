@@ -9,7 +9,8 @@
 - 👯 I’m looking to collaborate on projects related to Frontend web dev 
 - 📫 How to reach me: mailme - yashwanthbm36@gmail.com  
   
-  ![Logo](https://github.com/yashwanth-gh/codeshack-summer-of-code/blob/main/portfolio/images/working.gif)
+  ![giphy](https://github.com/yashwanth-gh/yashwanth-gh/assets/107710864/bf8ad386-fc03-4285-8a88-fe0630f09284)
+
   
   
 
