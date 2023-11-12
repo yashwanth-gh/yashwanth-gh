@@ -5,7 +5,7 @@
 
 
 - 🔭 Frontend web development  
-- 🌱 On a Path to become aspiring Fullstack web developer 
+- 🌱 On a Path to become aspiring developer   
 - 👯 I’m looking to collaborate on projects related to Frontend web dev 
 - 📫 How to reach me: mailme - yashwanthbm36@gmail.com  
   
