@@ -1,15 +1,51 @@
-### Hi there 👋
 
-<!--
-**yashwanth-gh/yashwanth-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+  <!-- ### Hi there 👋 -->
+
+    
+# Hello, I'm Yashwanth! 👨‍💻
+I'm a fourth-semester engineering student at VTU Belagavi, with a passion for crafting intelligent websites and applications. Welcome to my GitHub profile, where I bring together code, creativity, and a commitment to continuous learning.
+
+<div style="display: flex; align-items: center;"><div style="display: flex; align-items: center; margin-top: 20px;">
+  <img src="https://github.com/yashwanth-gh/yashwanth-gh/assets/107710864/935d5488-368e-43ae-8bfd-c138f5e265bc" alt="Image 2" width="200" height="200" style="border-radius: 50%; margin-right: 20px;">
+  <!-- Additional content or text for the second image can be added here if needed -->
+</div>
+</div>
 
 
-- 🔭 Frontend web development  
-- 🌱 On a Path to become aspiring developer   
-- 📫 How to reach me: mailme - yashwanthbm36@gmail.com  
-  
-  ![giphy](https://github.com/yashwanth-gh/yashwanth-gh/assets/107710864/bf8ad386-fc03-4285-8a88-fe0630f09284)
+## About Me
 
-  
-  
+🎓 **Academic Background:** I'm currently in my fourth semester at VTU Belagavi, pursuing a degree in engineering.
+
+💻 **Tech Enthusiast:** Proficient in C++, JavaScript, and Python, I thrive on the challenges of building AI-based websites and apps.
+
+🚀 **Current Mission:** Working towards the development of a comprehensive, multi-functional app and website, integrating the power of AI.
+
+## Tech Stack
+
+🌐 **Languages:** C++, JavaScript, Python
+
+🛠️ **Frontend Development:** React, GSAP, Tailwind CSS
+
+📚 **Learning Journey:** As part of my ongoing learning, I'm delving into database management to enhance my skills further.
+
+## Goals
+
+🚀 **Future Vision:** To contribute to cutting-edge projects and continue my journey of growth in the fields of AI and web development.
+
+## Coding Preferences
+
+🌟 **Passion Projects:** I enjoy tackling complex UI designs, solving data structures and algorithms challenges, and meticulously replicating intricate page layouts.
+
+## Let's Connect!
+
+🌐 **Portfolio:** [Explore My Work](https://yourportfolio.com/)   
+
+📫 **LinkedIn:** [Connect with Me](https://www.linkedin.com/in/yourlinkedinprofile/)
+
+🐦 **Twitter:** [Follow Me](https://twitter.com/yourtwitterprofile/)
+
+Feel free to explore my repositories, connect for collaborations, or simply drop a message to discuss all things tech. Looking forward to connecting with fellow developers and enthusiasts like you!
+
+
+
 
