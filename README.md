@@ -43,11 +43,11 @@ I'm a fourth-semester engineering student at VTU Belagavi, with a passion for cr
 
 ## Let's Connect!
 
-🌐 **Portfolio:** [Explore My Work](https://yourportfolio.com/)   
+🌐 **Portfolio:** [Explore My Work](https://yourportfolio.com/)    **-->** Under Construction 🛠️
 
-📫 **LinkedIn:** [Connect with Me](https://www.linkedin.com/in/yourlinkedinprofile/)
+📫 **LinkedIn:** [Connect with Me](https://www.linkedin.com/in/yashwanth-b-m-4a4a09227/)
 
-🐦 **Twitter:** [Follow Me](https://twitter.com/yourtwitterprofile/)
+🐦 **Twitter:** [Follow Me](https://twitter.com/yashwanthbm36)
 
 Feel free to explore my repositories, connect for collaborations, or simply drop a message to discuss all things tech. Looking forward to connecting with fellow developers and enthusiasts like you!
 
