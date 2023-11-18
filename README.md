@@ -3,7 +3,7 @@
 
     
 # Hello, I'm Yashwanth! 👨‍💻
-I'm a fourth-semester engineering student at VTU Belagavi, with a passion for crafting intelligent websites and applications. Welcome to my GitHub profile, where I bring together code, creativity, and a commitment to continuous learning.
+I'm a fifth-semester engineering student at Sir MVIT, Bangalore, with a passion for crafting intelligent websites and applications. Welcome to my GitHub profile, where I bring together code, creativity, and a commitment to continuous learning.
 
 <div style="display: flex; align-items: center;"><div style="display: flex; align-items: center; margin-top: 20px;">
   <img src="https://github.com/yashwanth-gh/yashwanth-gh/assets/107710864/935d5488-368e-43ae-8bfd-c138f5e265bc" alt="Image 2" width="200" height="200" style="border-radius: 50%; margin-right: 20px;">
