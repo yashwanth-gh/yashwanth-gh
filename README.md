@@ -19,7 +19,7 @@ I'm a fifth-semester engineering student at Sir MVIT, Bangalore, with a passion 
 
 ## About Me
 
-🎓 **Academic Background:** I'm currently in my fourth semester at VTU Belagavi, pursuing a degree in engineering.
+🎓 **Academic Background:** I'm currently in my fourth semester at Sir MVIT, pursuing a degree in Information Science and Engineering.
 
 💻 **Tech Enthusiast:** Proficient in C++, JavaScript, and Python, I thrive on the challenges of building AI-based websites and apps.
 
