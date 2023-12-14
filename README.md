@@ -2,7 +2,7 @@
   <!-- ### Hi there 👋 -->
 
     
-<h1> Hello!👋 I'm Yashwanth! <img src="https://media1.giphy.com/media/qAXDUie0dPweocOvnw/giphy.gif?cid=ecf05e47ti6g6ad6wpzzbnryawe53kjgxja2t5ictclalz58&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="50"></h1>
+<h1> Hello!👋 I'm Yashwanth! <img src="https://media1.giphy.com/media/qAXDUie0dPweocOvnw/giphy.gif?cid=ecf05e47ti6g6ad6wpzzbnryawe53kjgxja2t5ictclalz58&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="75"></h1>
 <h4>
 I'm a fifth-semester engineering student at Sir MVIT, Bangalore.   
 </h4>
