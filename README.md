@@ -2,7 +2,7 @@
   <!-- ### Hi there 👋 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=250&section=header&text=Hi!%20I'm%20Yashwanth&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=250&section=header&text=Hi!%20I'm%20Yashwanth&fontColor=F7EFE9&fontSize=90" />
 </p>
 
 <h1 align="center"> 
@@ -34,9 +34,9 @@ Welcome to my GitHub profile, where I bring together code, creativity, and a com
 </div>
 </div>
 
+<br>
 
-
-<h2 style="background-color:powderblue;"> <img src="https://media0.giphy.com/media/RRi3GncwtYHTSYODaf/giphy.gif?cid=ecf05e4741oajturmggjhottjcxs5m1wdikt8k5we1bclt9b&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="38"> &nbsp; About Me ⨾</h2>
+<h2 style="background-color:powderblue;"> <img src="https://media0.giphy.com/media/RRi3GncwtYHTSYODaf/giphy.gif?cid=ecf05e4741oajturmggjhottjcxs5m1wdikt8k5we1bclt9b&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="32"> &nbsp; About Me ⨾</h2>
 
 🎓 **Academic Background :** &nbsp;<em>I'm currently in my fourth semester at Sir MVIT, pursuing a degree in Information Science and Engineering.</em>
 
@@ -44,8 +44,9 @@ Welcome to my GitHub profile, where I bring together code, creativity, and a com
 
 🚀 **Current Mission:** &nbsp;<em>Working towards the development of a comprehensive, multi-functional app and website, integrating the power of AI.</em>
 
-<h2 style="text-align:centre"> <img src="https://media0.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=ecf05e47ovpz63p960fnqe2l9l8ev3b599x3bw70dyty6nv2&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="42"> &nbsp; Tech Stack ⨾</h2>   
-
+<br>
+  
+  <h2><img src="https://media0.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=ecf05e47ovpz63p960fnqe2l9l8ev3b599x3bw70dyty6nv2&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="30">&nbsp;&nbsp;Tech Stack ⨾</h2>
 
 🌐 <b>**Languages:**</b> &nbsp;&nbsp;C++, JavaScript, Python
 
@@ -53,13 +54,19 @@ Welcome to my GitHub profile, where I bring together code, creativity, and a com
 
 📚 **Learning Journey:**&nbsp;&nbsp; As part of my ongoing learning, I'm delving into database management to enhance my skills further.
 
-<h2 style="text-align:centre"> <img src="https://media4.giphy.com/media/pB4oYINWRmtbS5FlCX/giphy.gif?cid=ecf05e47wkhkwx7fnntlrll3o8puutnty6q23ce3aza1alwy&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="42"> &nbsp; Goals ⨾ </h2>   
+<br>
+
+<h2 style="text-align:centre"> <img src="https://media4.giphy.com/media/pB4oYINWRmtbS5FlCX/giphy.gif?cid=ecf05e47wkhkwx7fnntlrll3o8puutnty6q23ce3aza1alwy&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="32"> &nbsp; Goals ⨾ </h2>   
 
 🚀 **Future Vision:** To contribute to cutting-edge projects and continue my journey of growth in the fields of AI and web development.
 
-<h2 style="text-align:centre"> <img src="https://media4.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=ecf05e47pmk1y068txlw37yndwrwzepc7ofk7pubw8t0dbzp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="42"> &nbsp; I Enjoy ⨾  </h2>   
+<br>
+
+<h2 style="text-align:centre"> <img src="https://media4.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=ecf05e47pmk1y068txlw37yndwrwzepc7ofk7pubw8t0dbzp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="32"> &nbsp; I Enjoy ⨾  </h2>   
 
 🌟 **Passion Projects:** I enjoy tackling complex UI designs, solving data structures and algorithms challenges, and meticulously replicating intricate page layouts.
+
+<br>
 
 <h2 style="text-align:centre"> <img src="https://media0.giphy.com/media/uwmNTx7NaDbJnXlKbx/giphy.gif?cid=ecf05e47punwiieyc07nnu8fta4sdbwv7p82hc6mudgtv2ez&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="30"> &nbsp; Let's Connect ⨾  </h2>   
 
@@ -70,6 +77,8 @@ Welcome to my GitHub profile, where I bring together code, creativity, and a com
 🐦 **Twitter:** [Follow Me](https://twitter.com/yashwanthbm36)
 
 Feel free to explore my repositories, connect for collaborations, or simply drop a message to discuss all things tech. Looking forward to connecting with fellow developers and enthusiasts like you!   
+
+<br>
 
 <div align="center">
 <h1 style="text-align:centre"> 
@@ -85,7 +94,9 @@ Feel free to explore my repositories, connect for collaborations, or simply drop
 </div>
 
 <!--   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=%20&fontSize=90&rotate=-180" /> -->
-![header](https://capsule-render.vercel.app/api?section=footer&height=300&type=waving&text=%20{/}%20&fontSize=50)
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?color=F7EFE9&section=footer&height=100&type=waving&text=%20{/}%20&fontColor=F7EFE9&fontSize=20" />
+</p>
 
