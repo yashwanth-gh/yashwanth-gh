@@ -97,6 +97,6 @@ Feel free to explore my repositories, connect for collaborations, or simply drop
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?color=F7EFE9&section=footer&height=100&type=waving&text=%20{/}%20&fontColor=F7EFE9&fontSize=20" />
+  <img src="https://capsule-render.vercel.app/api?color=F7EFE9&section=footer&height=150&type=waving&text=%20{/}%20&fontColor=F7EFE9&fontSize=20" />
 </p>
 
