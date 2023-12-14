@@ -51,8 +51,12 @@ I'm a fifth-semester engineering student at Sir MVIT, Bangalore, with a passion 
 
 Feel free to explore my repositories, connect for collaborations, or simply drop a message to discuss all things tech. Looking forward to connecting with fellow developers and enthusiasts like you!
 
-![yashwanth-gh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashwanth-gh&theme=vue-dark&hide_border=true)
+## Stats 📊
 
+![yashwanth-gh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanth-gh&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)   
+
+![yashwanth-gh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashwanth-gh&theme=vue-dark&hide_border=true)     
+------
 
 
 
