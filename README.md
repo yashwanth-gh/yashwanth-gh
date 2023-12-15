@@ -93,7 +93,7 @@ Feel free to explore my repositories, connect for collaborations, or simply drop
 
   <h4>
     <img src="https://media0.giphy.com/media/Jmn641UpKSp5SukKxw/giphy.gif?cid=ecf05e47gmjg12cfco9ilso6tppzw2lsfcd8zw6ygf6brfw7&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="15">
-    <em>Reload if the stats didn't load!</em>
+    <em>Reload the page if the stats didn't load!</em>
   </h4>
 </div>
 
