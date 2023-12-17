@@ -11,7 +11,7 @@
 <h4 align="center">
   <em>
     <b>
-      I'm a fifth-semester engineering student at Sir MVIT, Bangalore.
+      I'm a frontend web developer learning Backend in 2024
     </b>
   </em>
 </h4>
@@ -36,7 +36,7 @@
 
 <h2 style="background-color:powderblue;"> <img src="https://media0.giphy.com/media/RRi3GncwtYHTSYODaf/giphy.gif?cid=ecf05e4741oajturmggjhottjcxs5m1wdikt8k5we1bclt9b&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="32"> &nbsp; About Me ⨾</h2>
 
-🎓 **Academic Background :** &nbsp;<em>I'm currently in my fourth semester at Sir MVIT, pursuing a degree in Information Science and Engineering.</em>
+🎓 **Academic Background :** &nbsp;<em>I'm currently in my fifth semester at Sir MVIT, pursuing a degree in Information Science and Engineering.</em>
 
 💻 **Tech Enthusiast :** &nbsp;<em>Proficient in C++, JavaScript, and Python, I thrive on the challenges of building AI-based websites and apps.</em>
 
