@@ -1,4 +1,9 @@
 <!-- ### Hi there 👋 -->
+<p>
+  <em>
+  👁️ better viewed in dark theme
+  </em>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=250&section=header&text=Hi!%20I'm%20Yashwanth&fontColor=F7EFE9&fontSize=90" />
