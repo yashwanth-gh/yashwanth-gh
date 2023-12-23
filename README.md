@@ -50,7 +50,7 @@
 
 🛠️ **Frontend Development:** &nbsp;&nbsp; <em>React, GSAP, Tailwind CSS</em>
 
-📚 **Learning Journey:**&nbsp;&nbsp; <em>As part of my ongoing learning, I'm delving into database management to enhance my skills further.</em>
+📚 **Learning Journey:**&nbsp;&nbsp; <em>As part of my ongoing learning, I'm delving into database management to enhance my skills further.</em>   
 
 <br>
 
@@ -78,6 +78,15 @@
 Feel free to explore my repositories, connect for collaborations, or simply drop a message to discuss all things tech. Looking forward to connecting with fellow developers and enthusiasts like you!
 </em>
 </div>
+  
+<br>
+  
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,bootstrap,sass,tailwind,js,react,nodejs,appwrite,express,vite&theme=light" />
+  </a>
+</p>
+
 <br>
 
 <div align="center">
