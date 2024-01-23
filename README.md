@@ -1,7 +1,8 @@
 <!-- ### Hi there 👋 -->
 <p>
+  👁️ 
   <em>
-  👁️ better viewed in dark theme
+    better viewed in dark theme
   </em>
 </p>
 
