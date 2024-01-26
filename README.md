@@ -104,7 +104,9 @@ Feel free to explore my repositories, connect for collaborations, or simply drop
 
   ![yashwanth-gh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanth-gh&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)   
   <img src="https://media0.giphy.com/media/tsvRwKnB4t9rkvYKWS/giphy.gif?cid=ecf05e47ucxr45hh04fonnl5gvs1gozilxpvrxhlkbghrgb8&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="200" alt = "image">    
-  ![yashwanth-gh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashwanth-gh&theme=vue-dark&hide_border=true)
+  ![yashwanth-gh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashwanth-gh&theme=vue-dark&hide_border=true)    
+  
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yashwanth-gh&theme=redical"/>
 
   <h4>
     <img src="https://media0.giphy.com/media/Jmn641UpKSp5SukKxw/giphy.gif?cid=ecf05e47gmjg12cfco9ilso6tppzw2lsfcd8zw6ygf6brfw7&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="15" alt = "image">
