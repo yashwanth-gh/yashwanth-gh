@@ -30,13 +30,14 @@
 
 <div style="display: flex; align-items: center;">
   <div style="display: flex; align-items: center; margin-top: 20px;" align="center">
-    <img src="https://github.com/yashwanth-gh/yashwanth-gh/assets/107710864/935d5488-368e-43ae-8bfd-c138f5e265bc" alt="Image 2" width="150" height="150" style="border-radius: 50%; margin-right: 20px;" alt = "image">
+    <img src="https://github.com/yashwanth-gh/yashwanth-gh/assets/107710864/c32092c2-85e6-4168-b857-3f737122791c" alt="Image 2" width="150" height="150" style="border-radius: 50%; margin-right: 20px;" alt = "image">
     <img src="https://github.com/yashwanth-gh/yashwanth-gh/assets/107710864/ca04014f-6c34-4d91-bad3-ac5db741af87" alt="Image 4" width="150" height="150" style="border-radius: 50%; margin-right: 20px;" alt = "image">
     <img src="https://github.com/yashwanth-gh/yashwanth-gh/assets/107710864/ca04014f-6c34-4d91-bad3-ac5db741af87" alt="Image 4" width="150" height="150" style="border-radius: 50%; margin-right: 20px;" alt = "image">
-    <img src="https://github.com/yashwanth-gh/yashwanth-gh/assets/107710864/4fd647f0-4da2-4c8e-9898-2d63a6c253e5" alt="Image 4" width="150" height="150" style="border-radius: 50%; margin-right: 20px;" alt = "image">
+    <img src="https://github.com/yashwanth-gh/yashwanth-gh/assets/107710864/c32092c2-85e6-4168-b857-3f737122791c" alt="Image 4" width="150" height="150" style="border-radius: 50%; margin-right: 20px;" alt = "image">
     <!-- Additional content or text for the second image can be added here if needed -->
   </div>
 </div>
+
 
 <br>
 
