@@ -55,7 +55,7 @@
 
 🌐 **Languages:**&nbsp;&nbsp; <em>C++, JavaScript, Python</em>
 
-🛠️ **Frontend Development:** &nbsp;&nbsp; <em>React, GSAP, Tailwind CSS</em>
+🛠️ **FullStack Development:** &nbsp;&nbsp; <em>React, GSAP, Tailwind CSS, ExpressJS, NodeJS, MongoDB</em>
 
 📚 **Learning Journey:**&nbsp;&nbsp; <em>As part of my ongoing learning, I'm delving into database management to enhance my skills further.</em>   
 
