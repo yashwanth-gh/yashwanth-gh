@@ -90,7 +90,7 @@ Feel free to explore my repositories, connect for collaborations, or simply drop
   
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,bootstrap,sass,tailwind,js,ts,react,redux,nodejs,mongodb,appwrite,postman,express,vite,linux,cpp,mysql&theme=light" alt = "image" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,bootstrap,sass,tailwind,js,ts,react,redux,nodejs,mongodb,appwrite,postman,express,vite,linux,mysql,postgres,cpp,py&theme=light" alt = "image" />
   </a>
 </p>
 
