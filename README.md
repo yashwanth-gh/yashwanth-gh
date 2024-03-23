@@ -103,7 +103,7 @@ Feel free to explore my repositories, connect for collaborations, or simply drop
     <img src="https://media4.giphy.com/media/2sbQ9kfHlN43TsfjeE/giphy.gif?cid=ecf05e47sgz05eeetquf2o4zzkn6vx9hts62shoxaiitxe4d&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="50" alt = "image">
   </h1>
 
-  ![yashwanth-gh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanth-gh&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)   
+  ![yashwanth-gh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanth-gh&exclude_repo=PostgreSQL-practice-projects&theme=vue-dark&hide_border=true)   
   <img src="https://media0.giphy.com/media/tsvRwKnB4t9rkvYKWS/giphy.gif?cid=ecf05e47ucxr45hh04fonnl5gvs1gozilxpvrxhlkbghrgb8&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="200" alt = "image">    
   ![yashwanth-gh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashwanth-gh&theme=vue-dark&hide_border=true)    
   
