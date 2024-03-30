@@ -35,7 +35,6 @@
     <img src="https://github.com/yashwanth-gh/yashwanth-gh/assets/107710864/ca04014f-6c34-4d91-bad3-ac5db741af87" alt="Image 2" width="150" height="150" style="border-radius: 50%; margin-right: 20px;" alt = "image">
     <img src="https://github.com/yashwanth-gh/yashwanth-gh/assets/107710864/ca04014f-6c34-4d91-bad3-ac5db741af87" alt="Image 3" width="150" height="150" style="border-radius: 50%; margin-right: 20px;" alt = "image">
     <img src="https://github.com/yashwanth-gh/yashwanth-gh/assets/107710864/ca04014f-6c34-4d91-bad3-ac5db741af87" alt="Image 3" width="150" height="150" style="border-radius: 50%; margin-right: 20px;" alt = "image">
-        <img src="https://github.com/yashwanth-gh/yashwanth-gh/assets/107710864/ca04014f-6c34-4d91-bad3-ac5db741af87" alt="Image 3" width="150" height="150" style="border-radius: 50%; margin-right: 20px;" alt = "image">
     <!-- Additional content or text for the second image can be added here if needed -->
   </div>
 </div>
@@ -56,11 +55,13 @@
 
 🌐 **Languages:** &nbsp;<em>C++, JavaScript, TypeScript, EJS, Python, SQL</em>
 
-🧑‍💻 **Frameworks:** &nbsp;<em>React, Express.js, TailwindCSS, Saas, Bootstrap</em>
-
 🛠️ **Tech Stack:** &nbsp;<em>React.js, Node.js, Express.js, MongoDB, PostgreSQL, Postman, Tailwind CSS, CSS, Hugging Face Models</em>
 
-📚 **Learning Journey:** &nbsp;<em>Exploring database management to enhance my skills further.</em>
+🧰 **Development Tools:** &nbsp;<em>VS Code, Git, GitHub, Postman, MongoDB Compass, pg Admin 4, mySQL workbench, Bash, more...</em>
+
+🧑‍💻 **Frameworks:** &nbsp;<em>React, Express.js, TailwindCSS, Saas, Bootstrap, jquery more...</em>
+
+🚀 **React Ecosystem:** &nbsp;<em>Redux, RTK, React Router, Tanstack Query, Shadcn-UI, Material-UI</em>
 
 <br>
 
