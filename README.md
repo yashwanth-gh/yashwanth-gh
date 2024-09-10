@@ -43,23 +43,23 @@
 
 <h2 style="background-color:powderblue;"> <img src="https://media0.giphy.com/media/RRi3GncwtYHTSYODaf/giphy.gif?cid=ecf05e4741oajturmggjhottjcxs5m1wdikt8k5we1bclt9b&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="32" alt = "Handshake Gif"> &nbsp; About Me ⨾</h2>
 
-🎓 **Academic Background:** &nbsp;<em>Currently in my sixth semester at Sir MVIT, pursuing a degree in Information Science and Engineering.</em>
+🎓 **Academic Background:** &nbsp;<em>Currently in my seventh semester at Sir MVIT, pursuing a degree in Information Science and Engineering.</em>
 
-💻 **Tech Enthusiast:** &nbsp;<em>Proficient in C++, JavaScript, and Python, I enjoy building AI-based websites and apps.</em>
+💻 **Tech Enthusiast:** &nbsp;<em>Proficient in C++, JavaScript, and Python, I enjoy building websites and do intresting projects.</em>
 
-🚀 **Current Mission:** &nbsp;<em>Developing a comprehensive, multi-functional app and website, integrating the power of AI.</em>
+🚀 **Current Mission:** &nbsp;<em>Developing a comprehensive, multi-functional website that can be easily maintainable and easy to deploy.</em>
 
 <br>
 
 <h2><img src="https://media0.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=ecf05e47ovpz63p960fnqe2l9l8ev3b599x3bw70dyty6nv2&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="30" alt = "Laptop Gif"> &nbsp;&nbsp;Tech Stack ⨾</h2>
 
-🌐 **Languages:** &nbsp;<em>C++, JavaScript, TypeScript, EJS, Python, SQL</em>
+🌐 **Languages:** &nbsp;<em>C++,C,  JavaScript, TypeScript, EJS, Python, SQL</em>
 
-🛠️ **Tech Stack:** &nbsp;<em>React.js, Node.js, Express.js, MongoDB, PostgreSQL, Postman, Tailwind CSS, CSS, Hugging Face Models, Langchain</em>
+🛠️ **Tech Stack:** &nbsp;<em>React.js, Node.js, Express.js, NEXT.js, MongoDB, PostgreSQL, Postman, Tailwind CSS, CSS, Hugging Face Models, Langchain</em>
 
 🧰 **Development Tools:** &nbsp;<em>VS Code, Git, GitHub, Postman, MongoDB Compass, pg Admin 4, mySQL workbench, Bash, more...</em>
 
-🧑‍💻 **Frameworks:** &nbsp;<em>React,NEXT.js Express.js,Langchain, TailwindCSS, Saas, Bootstrap, jquery more...</em>
+🧑‍💻 **Frameworks:** &nbsp;<em>React.js,NEXT.js Express.js,Langchain, TailwindCSS, Saas, Bootstrap, jquery more...</em>
 
 🚀 **React Ecosystem:** &nbsp;<em>Redux, RTK, React Router, Tanstack Query, Shadcn-UI, Material-UI</em>
 
