@@ -15,11 +15,11 @@
 </h1>
 
 <h4 align="center">
-  <em>
     <b>
-      Fullstack Web Developer | Building Android Projects
-    </b>
-  </em>
+      
+      Fullstack Web Developer && Building Android Projects
+      
+   </b>
 </h4>
 
 <p align="center">
@@ -52,29 +52,64 @@
 
 <h2><img src="https://media0.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=ecf05e47ovpz63p960fnqe2l9l8ev3b599x3bw70dyty6nv2&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="30" alt = "Laptop Gif"> &nbsp;&nbsp;Tech Stack ⨾</h2>
 
-🌐 **Languages:** &nbsp;<em>C++, C, JavaScript, TypeScript, Kotlin, EJS, Python, SQL</em>
+```js
+// Languages I work with
+const languages = ["C++", "C", "JavaScript", "TypeScript", "Kotlin", "EJS", "Python", "SQL"];
 
-💻 **Tech Stack Web:** &nbsp;<em>React.js, Node.js, Express.js, NEXT.js, MongoDB, PostgreSQL, Postman,HTML, CSS, Tailwind CSS, Bootstrap, Appwrite, more....</em>    
+// Web Tech Stack
+const webTechStack = ["React.js", "Node.js", "Express.js", "NEXT.js", "MongoDB", "PostgreSQL", "Postman", "HTML", "CSS", "Tailwind CSS", "Bootstrap", "Appwrite", "more..."];
 
-📲 **Tech Stack App:** &nbsp;<em>Kotlin, Android studio, Firebase, more....</em>
+// App Tech Stack
+const appTechStack = ["Kotlin", "Android Studio", "Firebase", "more..."];
 
-🧰 **Development Tools:** &nbsp;<em>VS Code, Android Studio, Git, GitHub, Postman, MongoDB Compass, pg Admin 4, mySQL workbench, Bash, more...</em>
+// Development Tools I use
+const devTools = ["VS Code", "Android Studio", "Git", "GitHub", "Postman", "MongoDB Compass", "pg Admin 4", "mySQL Workbench", "Bash", "more..."];
 
-🧑‍💻 **Some experience:** &nbsp;<em> Hugging Face Models and Langchain</em>
+// Some experience with
+const experience = ["Hugging Face Models", "Langchain"];
 
-🚀 **React Ecosystem:** &nbsp;<em>Redux, RTK, React Router, Tanstack Query, Shadcn-UI, Material-UI</em>
+// React Ecosystem Tools
+const reactEcosystem = ["Redux", "RTK", "React Router", "Tanstack Query", "Shadcn-UI", "Material-UI"];
+```
 
 <br>
 
 <h2 style="text-align:center"> <img src="https://media4.giphy.com/media/pB4oYINWRmtbS5FlCX/giphy.gif?cid=ecf05e47wkhkwx7fnntlrll3o8puutnty6q23ce3aza1alwy&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="32" alt = "Goals Gif"> &nbsp; Goals ⨾ </h2>
 
-🚀 **Future Vision:** <em>Contribute to cutting-edge projects and continue growing in AI, web development and app development.</em>
+```js
+{
+  "FutureVision": {
+    "Goal": "Contribute to cutting-edge projects and grow in AI, web, app dev, and DevOps.",
+    
+    "Aspirations": [
+        "Enhance user experiences and accessibility.",
+        "Build projects in OS, DBMS, and OOP.",
+        "Collaborate with diverse teams.",
+        "Engage in continuous learning."
+    ],
+    
+    "Commitment": "Strive for impactful contributions."
+  }
+}
+
+```
 
 <br>
 
 <h2 style="text-align:center"> <img src="https://media4.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=ecf05e47pmk1y068txlw37yndwrwzepc7ofk7pubw8t0dbzp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="32" alt = "Coffee Gif"> &nbsp; Interests ⨾ </h2>
+ 
 
-🌟 **Passion Projects:** <em>Enjoy tackling complex UI designs, solving algorithms challenges, and coding backend flows.</em>
+```javascript
+  const interests = [
+      "Tackling complex UI designs",
+      "Solving algorithm challenges",
+      "Coding backend flows",
+      "Developing Android applications using Kotlin",
+      "Building projects related to operating systems",
+      "Exploring various technologies to enhance my skills"
+  ];
+```
+
 
 <br>
 
@@ -85,6 +120,8 @@
 📫 **LinkedIn:** [Connect with Me](https://www.linkedin.com/in/yashwanth-b-m-4a4a09227/)
 
 🐦 **Twitter:** [Follow Me](https://twitter.com/yashwanthbm36)
+
+<br>
 
 <div align="center">
 <em>
@@ -126,3 +163,4 @@ Feel free to explore my repositories, connect for collaborations, or simply drop
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?color=F7EFE9&section=footer&height=150&type=waving&text=%20{🙏}%20&fontColor=F7EFE9&fontSize=20" alt = "image" />
 </p>
+
