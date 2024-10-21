@@ -17,7 +17,7 @@
 <h4 align="center">
   <em>
     <b>
-      Fullstack Web Developer | Building Projects
+      Fullstack Web Developer | Building Android Projects
     </b>
   </em>
 </h4>
@@ -34,7 +34,6 @@
     <img src="https://github.com/yashwanth-gh/yashwanth-gh/assets/107710864/ca04014f-6c34-4d91-bad3-ac5db741af87" alt="Image 3" width="150" height="150" style="border-radius: 50%; margin-right: 20px;" alt = "image">
     <img src="https://github.com/yashwanth-gh/yashwanth-gh/assets/107710864/ca04014f-6c34-4d91-bad3-ac5db741af87" alt="Image 2" width="150" height="150" style="border-radius: 50%; margin-right: 20px;" alt = "image">
     <img src="https://github.com/yashwanth-gh/yashwanth-gh/assets/107710864/ca04014f-6c34-4d91-bad3-ac5db741af87" alt="Image 3" width="150" height="150" style="border-radius: 50%; margin-right: 20px;" alt = "image">
-    <img src="https://github.com/yashwanth-gh/yashwanth-gh/assets/107710864/ca04014f-6c34-4d91-bad3-ac5db741af87" alt="Image 3" width="150" height="150" style="border-radius: 50%; margin-right: 20px;" alt = "image">
     <!-- Additional content or text for the second image can be added here if needed -->
   </div>
 </div>
@@ -45,21 +44,23 @@
 
 🎓 **Academic Background:** &nbsp;<em>Currently in my seventh semester at Sir MVIT, pursuing a degree in Information Science and Engineering.</em>
 
-💻 **Tech Enthusiast:** &nbsp;<em>Proficient in C++, JavaScript, and Python, I enjoy building websites and do intresting projects.</em>
+💻 **Tech Enthusiast:** &nbsp;<em>Proficient in C++, JavaScript, Kotlin and Python, I enjoy building websites and Apps and do intresting projects.</em>
 
-🚀 **Current Mission:** &nbsp;<em>Developing a comprehensive, multi-functional website that can be easily maintainable and easy to deploy.</em>
+🚀 **Current Mission:** &nbsp;<em>Developing a comprehensive, multi-functional websites and apps that can be easily maintainable and easy to deploy.</em>
 
 <br>
 
 <h2><img src="https://media0.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=ecf05e47ovpz63p960fnqe2l9l8ev3b599x3bw70dyty6nv2&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="30" alt = "Laptop Gif"> &nbsp;&nbsp;Tech Stack ⨾</h2>
 
-🌐 **Languages:** &nbsp;<em>C++,C,  JavaScript, TypeScript, EJS, Python, SQL</em>
+🌐 **Languages:** &nbsp;<em>C++, C, JavaScript, TypeScript, Kotlin, EJS, Python, SQL</em>
 
-🛠️ **Tech Stack:** &nbsp;<em>React.js, Node.js, Express.js, NEXT.js, MongoDB, PostgreSQL, Postman, Tailwind CSS, CSS, Hugging Face Models, Langchain</em>
+💻 **Tech Stack Web:** &nbsp;<em>React.js, Node.js, Express.js, NEXT.js, MongoDB, PostgreSQL, Postman,HTML, CSS, Tailwind CSS, Bootstrap, Appwrite, more....</em>    
 
-🧰 **Development Tools:** &nbsp;<em>VS Code, Git, GitHub, Postman, MongoDB Compass, pg Admin 4, mySQL workbench, Bash, more...</em>
+📲 **Tech Stack App:** &nbsp;<em>Kotlin, Android studio, Firebase, more....</em>
 
-🧑‍💻 **Frameworks:** &nbsp;<em>React.js,NEXT.js Express.js,Langchain, TailwindCSS, Saas, Bootstrap, jquery more...</em>
+🧰 **Development Tools:** &nbsp;<em>VS Code, Android Studio, Git, GitHub, Postman, MongoDB Compass, pg Admin 4, mySQL workbench, Bash, more...</em>
+
+🧑‍💻 **Some experience:** &nbsp;<em> Hugging Face Models and Langchain</em>
 
 🚀 **React Ecosystem:** &nbsp;<em>Redux, RTK, React Router, Tanstack Query, Shadcn-UI, Material-UI</em>
 
@@ -67,7 +68,7 @@
 
 <h2 style="text-align:center"> <img src="https://media4.giphy.com/media/pB4oYINWRmtbS5FlCX/giphy.gif?cid=ecf05e47wkhkwx7fnntlrll3o8puutnty6q23ce3aza1alwy&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="32" alt = "Goals Gif"> &nbsp; Goals ⨾ </h2>
 
-🚀 **Future Vision:** <em>Contribute to cutting-edge projects and continue growing in AI and web development.</em>
+🚀 **Future Vision:** <em>Contribute to cutting-edge projects and continue growing in AI, web development and app development.</em>
 
 <br>
 
@@ -95,7 +96,7 @@ Feel free to explore my repositories, connect for collaborations, or simply drop
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,bootstrap,sass,tailwind,js,ts,react,redux,nodejs,mongodb,appwrite,postman,express,vite,linux,mysql,postgres,cpp,py,nextjs,jest&theme=light" alt = "Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,bootstrap,sass,tailwind,js,ts,react,redux,nodejs,mongodb,appwrite,postman,express,vite,linux,mysql,postgres,cpp,py,nextjs,jest,androidstudio,kotlin,firebase&theme=light" alt = "Tech Stack Icons" />
   </a>
 </p>
 
