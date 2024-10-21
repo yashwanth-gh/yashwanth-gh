@@ -54,22 +54,22 @@
 
 ```js
 // Languages I work with
-const languages = ["C++", "C", "JavaScript", "TypeScript", "Kotlin", "EJS", "Python", "SQL"];
+let languages = ["C++", "C", "JavaScript", "TypeScript", "Kotlin", "EJS", "Python", "SQL"];
 
 // Web Tech Stack
-const webTechStack = ["React.js", "Node.js", "Express.js", "NEXT.js", "MongoDB", "PostgreSQL", "Postman", "HTML", "CSS", "Tailwind CSS", "Bootstrap", "Appwrite", "more..."];
+let webTechStack = ["React.js", "Node.js", "Express.js", "NEXT.js", "MongoDB", "PostgreSQL", "Postman", "HTML", "CSS", "Tailwind CSS", "Bootstrap", "Appwrite", "more..."];
 
 // App Tech Stack
-const appTechStack = ["Kotlin", "Android Studio", "Firebase", "more..."];
+let appTechStack = ["Kotlin", "Android Studio", "Firebase", "more..."];
 
 // Development Tools I use
-const devTools = ["VS Code", "Android Studio", "Git", "GitHub", "Postman", "MongoDB Compass", "pg Admin 4", "mySQL Workbench", "Bash", "more..."];
+let devTools = ["VS Code", "Android Studio", "Git", "GitHub", "Postman", "MongoDB Compass", "pg Admin 4", "mySQL Workbench", "Bash", "more..."];
 
 // Some experience with
-const experience = ["Hugging Face Models", "Langchain"];
+let experience = ["Hugging Face Models", "Langchain"];
 
 // React Ecosystem Tools
-const reactEcosystem = ["Redux", "RTK", "React Router", "Tanstack Query", "Shadcn-UI", "Material-UI"];
+let reactEcosystem = ["Redux", "RTK", "React Router", "Tanstack Query", "Shadcn-UI", "Material-UI"];
 ```
 
 <br>
@@ -100,7 +100,7 @@ const reactEcosystem = ["Redux", "RTK", "React Router", "Tanstack Query", "Shadc
  
 
 ```javascript
-  const interests = [
+  let interests = [
       "Tackling complex UI designs",
       "Solving algorithm challenges",
       "Coding backend flows",
