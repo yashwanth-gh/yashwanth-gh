@@ -133,7 +133,7 @@ Feel free to explore my repositories, connect for collaborations, or simply drop
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,bootstrap,sass,tailwind,js,ts,react,redux,nodejs,mongodb,appwrite,postman,express,vite,linux,mysql,postgres,cpp,py,nextjs,jest,androidstudio,kotlin,firebase&theme=light" alt = "Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,bootstrap,sass,tailwind,js,ts,react,redux,nodejs,mongodb,appwrite,postman,express,vite,linux,mysql,postgres,cpp,py,nextjs,jest,androidstudio,kotlin,firebase&perline=30&theme=light" alt = "Tech Stack Icons" />
   </a>
 </p>
 
